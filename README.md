@@ -14,7 +14,6 @@ You can select which comment details to include (text, likes, timestamp, usernam
   - Like count
   - Creation date
   - Username
-  - Full name
 - Simple **Export Comments** button in the page
 - Data saved as a CSV file
 
